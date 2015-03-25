@@ -1,4 +1,4 @@
-package com.sweetmanor.tool;
+package com.sweetmanor.program;
 
 import java.awt.BorderLayout;
 import java.awt.event.ActionEvent;

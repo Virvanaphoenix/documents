@@ -1,4 +1,4 @@
-package com.sweetmanor.tool;
+package com.sweetmanor.program;
 
 import java.awt.Color;
 import java.awt.EventQueue;

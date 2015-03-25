@@ -1,4 +1,4 @@
-package com.sweetmanor.tool;
+package com.sweetmanor.program;
 
 import java.awt.Image;
 import java.awt.MenuItem;
